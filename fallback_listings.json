@@ -1,0 +1,20 @@
+[
+  {
+    "address": "123 Example St, Brisbane, CA 94005",
+    "rent": 3200,
+    "sqft": 950,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "unit_type": "2B1B",
+    "time_on_market": "Listed 10 days ago",
+    "parking": "1 assigned parking spot",
+    "laundry_in_unit": true,
+    "photos": [
+      "https://via.placeholder.com/800x600.png?text=Photo+1",
+      "https://via.placeholder.com/800x600.png?text=Photo+2"
+    ],
+    "url": "https://www.zillow.com/homedetails/example",
+    "zip": "94005",
+    "zpid": "00000000"
+  }
+]
